@@ -27,6 +27,12 @@ A lightweight resource pack that makes the beacon beam invisible while keeping a
 - Beacon effects keep working
 - Lightweight — textures only, no mods required
 
+## 📸 Screenshots · Ekran Görüntüleri
+
+<table>
+<tr><td align="center"><img src=".github/screenshots/screenshot-1.png" width="400" alt="In-game screenshot"></td></tr>
+</table>
+
 ### 📥 Installation
 
 1. Download from **[Modrinth](https://modrinth.com/resourcepack/invisible-beacon-beam)** or the [Releases](../../releases/latest) page.
